@@ -1,7 +1,7 @@
 {
   "name": "luma",
   "version": "1.2.0",
-  "private": true,
+  "private": false,
   "scripts": {
     "development": "cross-env NODE_ENV=development node_modules/webpack/bin/webpack.js --progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js",
     "production": "cross-env NODE_ENV=production node_modules/webpack/bin/webpack.js --progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js",
@@ -13,7 +13,7 @@
   "author": "FrontendMatter <contact@frontendmatter.com> (http://themeforest.net/user/frontendmatter/portfolio)",
   "license": "UNLICENSED",
   "dependencies": {
-    "ui-huma": "gitlab:FrontendMatter/ui-huma#v1.6.0"
+    "ui-huma": "/home/skankhunt/repositorys/digitalcrafts-LMS/ui-huma-master"
   },
   "devDependencies": {
     "@babel/polyfill": "^7.2.5",
@@ -28,10 +28,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@gitlab.com/FrontendMatter/luma.git"
+    "url": "git+git@github.com:NathanNOSudo/digitalcrafts-LMS.git"
   },
   "bugs": {
     "url": "https://gitlab.com/FrontendMatter/luma/issues"
   },
-  "homepage": "https://gitlab.com/FrontendMatter/luma#readme"
+  "homepage": "https://gitlab.com/FrontendMatter/luma#readme",
+  "description": "One Paragraph of project description goes here",
+  "main": "webpack.mix.js",
+  "directories": {
+    "doc": "docs"
+  }
 }
