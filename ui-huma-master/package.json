@@ -1,7 +1,7 @@
 {
   "name": "ui-huma",
   "version": "1.6.0",
-  "private": true,
+  "private": false,
   "description": "Huma Theme UI",
   "author": "FrontendMatter <contact@frontendmatter.com> (http://www.frontendmatter.com)",
   "license": "UNLICENSED",
@@ -53,5 +53,9 @@
   },
   "devDependencies": {
     "@babel/runtime": "^7.2.0"
+  },
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   }
 }

@@ -28,7 +28,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+git@github.com:NathanNOSudo/digitalcrafts-LMS.git"
+    "url": "git+ssh://git@github.com/NathanNOSudo/digitalcrafts-LMS.git"
   },
   "bugs": {
     "url": "https://gitlab.com/FrontendMatter/luma/issues"
