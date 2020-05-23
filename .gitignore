@@ -1,5 +1,5 @@
 /.idea
 node_modules
-docs
-src
-temp
+./docs
+./src
+./temp
