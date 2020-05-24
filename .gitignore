@@ -1,5 +1,11 @@
 /.idea
+<<<<<<< HEAD
 node_modules
 ./docs
 ./src
 ./temp
+=======
+/node_modules
+/src
+/docs
+>>>>>>> master
