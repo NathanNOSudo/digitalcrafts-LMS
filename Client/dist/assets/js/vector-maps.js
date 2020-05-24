@@ -1973,7 +1973,7 @@ __webpack_require__.r(__webpack_exports__);
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /Users/victor/repos/full-stack-project/src/js/vendor/vector-maps.js */"./src/js/vendor/vector-maps.js");
+module.exports = __webpack_require__(/*! /home/skankhunt/repositorys/digitalcrafts-LMS/src/js/vendor/vector-maps.js */"./src/js/vendor/vector-maps.js");
 
 
 /***/ })

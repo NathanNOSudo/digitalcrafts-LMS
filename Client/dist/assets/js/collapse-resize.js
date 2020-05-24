@@ -9652,7 +9652,7 @@ __webpack_require__.r(__webpack_exports__);
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /Users/victor/repos/full-stack-project/src/js/collapse-resize.js */"./src/js/collapse-resize.js");
+module.exports = __webpack_require__(/*! /home/skankhunt/repositorys/digitalcrafts-LMS/src/js/collapse-resize.js */"./src/js/collapse-resize.js");
 
 
 /***/ })

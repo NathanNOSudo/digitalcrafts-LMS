@@ -155,7 +155,7 @@ domFactory.handler.register('image', imageComponent);
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /Users/victor/repos/full-stack-project/src/js/image.js */"./src/js/image.js");
+module.exports = __webpack_require__(/*! /home/skankhunt/repositorys/digitalcrafts-LMS/src/js/image.js */"./src/js/image.js");
 
 
 /***/ })

@@ -336,26 +336,26 @@ domFactory.handler.register('accordion', accordionComponent);
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! /Users/victor/repos/full-stack-project/src/js/accordion.js */"./src/js/accordion.js");
-__webpack_require__(/*! /Users/victor/repos/full-stack-project/src/sass/app.scss */"./src/sass/app.scss");
-__webpack_require__(/*! /Users/victor/repos/full-stack-project/src/sass/preloader.scss */"./src/sass/preloader.scss");
-__webpack_require__(/*! /Users/victor/repos/full-stack-project/src/sass/vendor/bootstrap-datepicker.scss */"./src/sass/vendor/bootstrap-datepicker.scss");
-__webpack_require__(/*! /Users/victor/repos/full-stack-project/src/sass/vendor/bootstrap-timepicker.scss */"./src/sass/vendor/bootstrap-timepicker.scss");
-__webpack_require__(/*! /Users/victor/repos/full-stack-project/src/sass/vendor/bootstrap-touchspin.scss */"./src/sass/vendor/bootstrap-touchspin.scss");
-__webpack_require__(/*! /Users/victor/repos/full-stack-project/src/sass/vendor/dropzone.scss */"./src/sass/vendor/dropzone.scss");
-__webpack_require__(/*! /Users/victor/repos/full-stack-project/src/sass/vendor/fancytree.scss */"./src/sass/vendor/fancytree.scss");
-__webpack_require__(/*! /Users/victor/repos/full-stack-project/src/sass/vendor/flatpickr-airbnb.scss */"./src/sass/vendor/flatpickr-airbnb.scss");
-__webpack_require__(/*! /Users/victor/repos/full-stack-project/src/sass/vendor/flatpickr.scss */"./src/sass/vendor/flatpickr.scss");
-__webpack_require__(/*! /Users/victor/repos/full-stack-project/src/sass/vendor/fontawesome.scss */"./src/sass/vendor/fontawesome.scss");
-__webpack_require__(/*! /Users/victor/repos/full-stack-project/src/sass/vendor/fullcalendar.scss */"./src/sass/vendor/fullcalendar.scss");
-__webpack_require__(/*! /Users/victor/repos/full-stack-project/src/sass/vendor/ion-rangeslider.scss */"./src/sass/vendor/ion-rangeslider.scss");
-__webpack_require__(/*! /Users/victor/repos/full-stack-project/src/sass/vendor/jvectormap.scss */"./src/sass/vendor/jvectormap.scss");
-__webpack_require__(/*! /Users/victor/repos/full-stack-project/src/sass/vendor/material-icons.scss */"./src/sass/vendor/material-icons.scss");
-__webpack_require__(/*! /Users/victor/repos/full-stack-project/src/sass/vendor/nestable.scss */"./src/sass/vendor/nestable.scss");
-__webpack_require__(/*! /Users/victor/repos/full-stack-project/src/sass/vendor/quill.scss */"./src/sass/vendor/quill.scss");
-__webpack_require__(/*! /Users/victor/repos/full-stack-project/src/sass/vendor/select2.scss */"./src/sass/vendor/select2.scss");
-__webpack_require__(/*! /Users/victor/repos/full-stack-project/src/sass/vendor/sweetalert.scss */"./src/sass/vendor/sweetalert.scss");
-module.exports = __webpack_require__(/*! /Users/victor/repos/full-stack-project/src/sass/vendor/toastr.scss */"./src/sass/vendor/toastr.scss");
+__webpack_require__(/*! /home/skankhunt/repositorys/digitalcrafts-LMS/src/js/accordion.js */"./src/js/accordion.js");
+__webpack_require__(/*! /home/skankhunt/repositorys/digitalcrafts-LMS/src/sass/app.scss */"./src/sass/app.scss");
+__webpack_require__(/*! /home/skankhunt/repositorys/digitalcrafts-LMS/src/sass/preloader.scss */"./src/sass/preloader.scss");
+__webpack_require__(/*! /home/skankhunt/repositorys/digitalcrafts-LMS/src/sass/vendor/bootstrap-datepicker.scss */"./src/sass/vendor/bootstrap-datepicker.scss");
+__webpack_require__(/*! /home/skankhunt/repositorys/digitalcrafts-LMS/src/sass/vendor/bootstrap-timepicker.scss */"./src/sass/vendor/bootstrap-timepicker.scss");
+__webpack_require__(/*! /home/skankhunt/repositorys/digitalcrafts-LMS/src/sass/vendor/bootstrap-touchspin.scss */"./src/sass/vendor/bootstrap-touchspin.scss");
+__webpack_require__(/*! /home/skankhunt/repositorys/digitalcrafts-LMS/src/sass/vendor/dropzone.scss */"./src/sass/vendor/dropzone.scss");
+__webpack_require__(/*! /home/skankhunt/repositorys/digitalcrafts-LMS/src/sass/vendor/fancytree.scss */"./src/sass/vendor/fancytree.scss");
+__webpack_require__(/*! /home/skankhunt/repositorys/digitalcrafts-LMS/src/sass/vendor/flatpickr-airbnb.scss */"./src/sass/vendor/flatpickr-airbnb.scss");
+__webpack_require__(/*! /home/skankhunt/repositorys/digitalcrafts-LMS/src/sass/vendor/flatpickr.scss */"./src/sass/vendor/flatpickr.scss");
+__webpack_require__(/*! /home/skankhunt/repositorys/digitalcrafts-LMS/src/sass/vendor/fontawesome.scss */"./src/sass/vendor/fontawesome.scss");
+__webpack_require__(/*! /home/skankhunt/repositorys/digitalcrafts-LMS/src/sass/vendor/fullcalendar.scss */"./src/sass/vendor/fullcalendar.scss");
+__webpack_require__(/*! /home/skankhunt/repositorys/digitalcrafts-LMS/src/sass/vendor/ion-rangeslider.scss */"./src/sass/vendor/ion-rangeslider.scss");
+__webpack_require__(/*! /home/skankhunt/repositorys/digitalcrafts-LMS/src/sass/vendor/jvectormap.scss */"./src/sass/vendor/jvectormap.scss");
+__webpack_require__(/*! /home/skankhunt/repositorys/digitalcrafts-LMS/src/sass/vendor/material-icons.scss */"./src/sass/vendor/material-icons.scss");
+__webpack_require__(/*! /home/skankhunt/repositorys/digitalcrafts-LMS/src/sass/vendor/nestable.scss */"./src/sass/vendor/nestable.scss");
+__webpack_require__(/*! /home/skankhunt/repositorys/digitalcrafts-LMS/src/sass/vendor/quill.scss */"./src/sass/vendor/quill.scss");
+__webpack_require__(/*! /home/skankhunt/repositorys/digitalcrafts-LMS/src/sass/vendor/select2.scss */"./src/sass/vendor/select2.scss");
+__webpack_require__(/*! /home/skankhunt/repositorys/digitalcrafts-LMS/src/sass/vendor/sweetalert.scss */"./src/sass/vendor/sweetalert.scss");
+module.exports = __webpack_require__(/*! /home/skankhunt/repositorys/digitalcrafts-LMS/src/sass/vendor/toastr.scss */"./src/sass/vendor/toastr.scss");
 
 
 /***/ })
