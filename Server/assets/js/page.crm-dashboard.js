@@ -174,7 +174,7 @@ __webpack_require__.r(__webpack_exports__);
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /Users/victor/repos/full-stack-project/src/js/page.crm-dashboard.js */"./src/js/page.crm-dashboard.js");
+module.exports = __webpack_require__(/*! /home/skankhunt/repositorys/digitalcrafts-LMS/src/js/page.crm-dashboard.js */"./src/js/page.crm-dashboard.js");
 
 
 /***/ })

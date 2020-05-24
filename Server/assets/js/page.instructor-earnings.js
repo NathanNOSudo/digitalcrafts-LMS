@@ -135,7 +135,7 @@
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /Users/victor/repos/full-stack-project/src/js/page.instructor-earnings.js */"./src/js/page.instructor-earnings.js");
+module.exports = __webpack_require__(/*! /home/skankhunt/repositorys/digitalcrafts-LMS/src/js/page.instructor-earnings.js */"./src/js/page.instructor-earnings.js");
 
 
 /***/ })

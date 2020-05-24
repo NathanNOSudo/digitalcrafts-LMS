@@ -120,7 +120,7 @@ domFactory.handler.register('player', playerComponent);
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /Users/victor/repos/full-stack-project/src/js/player.js */"./src/js/player.js");
+module.exports = __webpack_require__(/*! /home/skankhunt/repositorys/digitalcrafts-LMS/src/js/player.js */"./src/js/player.js");
 
 
 /***/ })

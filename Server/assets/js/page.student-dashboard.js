@@ -177,7 +177,7 @@
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /Users/victor/repos/full-stack-project/src/js/page.student-dashboard.js */"./src/js/page.student-dashboard.js");
+module.exports = __webpack_require__(/*! /home/skankhunt/repositorys/digitalcrafts-LMS/src/js/page.student-dashboard.js */"./src/js/page.student-dashboard.js");
 
 
 /***/ })
